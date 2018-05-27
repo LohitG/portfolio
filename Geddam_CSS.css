@@ -32,7 +32,7 @@ header{
 }
 
 .image1 {
-    width:37em;
+    width:35em;
     height:28em;
 }
 
@@ -67,4 +67,12 @@ ul{
 .SameSize {
     width: 400;
     height: 250;
+}
+
+#lol{
+    font-size: 16;
+}
+
+.fntsize{
+    font-size: 14;
 }
